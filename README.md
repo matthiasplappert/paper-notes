@@ -1,6 +1,6 @@
 # Paper Notes
 
-- 2018-04-14: [Universal Planning Networks](notes/2018-04-14-universal-planning-networks.md)
+- 2018-04-14: [Universal Planning Networks](notes/2018-04-14-universal-planning-networks.md), Srinivas et al., 2018
 
 ## Rendering equations
 Unfortunately, Github does not support rendering Latex math expressions out of the box.
